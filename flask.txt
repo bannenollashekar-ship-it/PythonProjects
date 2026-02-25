@@ -1,0 +1,15 @@
+🟢 Phase 1: Strong Python Basics (Week 1)
+
+Before Flask, you must know:
+
+✅ Functions
+✅ OOP basics
+✅ Virtual environment
+✅ pip
+✅ JSON
+
+Create virtual environment:
+
+python -m venv venv
+source venv/bin/activate   # Linux
+venv\Scripts\activate      # Windows
