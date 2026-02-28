@@ -1,0 +1,12 @@
+CI_CD in DevOps
+🟢 Phase 2: Django Basics (Week 2)
+
+Install Django:
+
+pip install django
+
+Check version:
+
+django-admin --version
+
+Create project:s
